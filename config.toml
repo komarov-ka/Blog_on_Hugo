@@ -1,4 +1,4 @@
 enableRobotsTXT = true
-baseURL = "http://example.org/"
+baseURL = "https://kirillblog.netlify.app"
 languageCode = "en-us"
 title = "Мой блог"
