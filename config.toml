@@ -1,0 +1,4 @@
+enableRobotsTXT = true
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Мой блог"
